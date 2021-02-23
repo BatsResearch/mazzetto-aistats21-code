@@ -1,0 +1,7 @@
+data/AA2/
+models/labelmodels/
+data/*.npy
+data/*.p
+__pycache__
+data/__pycache__
+models/__pycache__
