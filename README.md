@@ -65,12 +65,12 @@ Both of these scripts have various flags that you can pass in to run the variant
 
 Please cite the following paper if you use our work. Thanks!
 
-Alessio Mazzetto, Dylan Sam, Andrew Park, Eliezer Upfal, Stephen H. Bach. "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees". Artificial Intelligence and Statistics (AISTATS), 2021.
+Alessio Mazzetto, Dylan Sam, Andrew Park, Eli Upfal, Stephen H. Bach. "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees". Artificial Intelligence and Statistics (AISTATS), 2021.
 
 ```
 @inproceedings{pgmv,
   title = {Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees}, 
-  author = {Mazzetto, Alessio and Sam, Dylan and Park, Andrew and Upfal, Eliezer, and Bach, Stephen H.}, 
+  author = {Mazzetto, Alessio and Sam, Dylan and Park, Andrew and Upfal, Eli, and Bach, Stephen H.}, 
   booktitle = {Artificial Intelligence and Statistics (AISTATS)}, 
   year = 2021, 
 }
