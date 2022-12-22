@@ -68,10 +68,12 @@ Please cite the following paper if you use our work. Thanks!
 Alessio Mazzetto, Dylan Sam, Andrew Park, Eli Upfal, Stephen H. Bach. "Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees". Artificial Intelligence and Statistics (AISTATS), 2021.
 
 ```
-@inproceedings{pgmv,
-  title = {Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees}, 
-  author = {Mazzetto, Alessio and Sam, Dylan and Park, Andrew and Upfal, Eli, and Bach, Stephen H.}, 
-  booktitle = {Artificial Intelligence and Statistics (AISTATS)}, 
-  year = 2021, 
+@inproceedings{mazzetto2021semi,
+  title={Semi-supervised aggregation of dependent weak supervision sources with performance guarantees},
+  author={Mazzetto, Alessio and Sam, Dylan and Park, Andrew and Upfal, Eli and Bach, Stephen},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={3196--3204},
+  year={2021},
+  organization={PMLR}
 }
 ```
